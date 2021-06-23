@@ -2,7 +2,7 @@
 
 <a href="https://www.buymeacoffee.com/demonbruster"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rrutsche&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-[![Demonbruster's github stats](https://github-readme-stats.vercel.app/api?username=demonbruster&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Demonbruster's github stats](https://github-readme-stats.vercel.app/api?username=demonbruster&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Demonbruster?tab=repositories)
 
 
 <!--
