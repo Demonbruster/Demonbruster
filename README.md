@@ -4,7 +4,7 @@
 
 [![Demonbruster's github stats](https://github-readme-stats.vercel.app/api?username=demonbruster&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonbruster&count_private=true)
+![Demonbruster's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonbruster&show_icons=true)
 
 
 
